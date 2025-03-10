@@ -1,0 +1,8 @@
+{
+  "name": "cubaan",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "32856cb6"
+}
